@@ -9,4 +9,4 @@ Tools used include:
 Building Instructions
    run Make
 
-   tun ./run.sh
+   run ./run.sh
