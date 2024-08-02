@@ -31,8 +31,9 @@ Clone the Repository:
 
 Ensure you have the necessary tools installed and run:
 
-make
-```Run the Operating System:```
+```make```
+
+Run the Operating System:
 
 Use QEMU or another virtual machine to boot the OS:
 
